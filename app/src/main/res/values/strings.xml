@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">P00_ContentProvider</string>
+    <string name="delete">Delete</string>
+    <string name="insert">Insert</string>
+    <string name="query">Query</string>
+    <string name="consultar">Consultar</string>
+    <string name="calls">Calls</string>
 </resources>
